@@ -185,12 +185,6 @@
 	
 </details>
 
-## 🎵 Currently Listening
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/pjn3ycgza2p6wc6u87k3lyfx6)
-
----
-
 ## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
