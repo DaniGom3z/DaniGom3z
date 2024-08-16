@@ -176,5 +176,5 @@
 ## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
-    <img src="https://github.com/DaniGom3z/practica-git/blob/master/github-user-contribution.svg" alt="Snake Game"/>
+    <img src="https://github.com/DaniGom3z/DaniGom3z/blob/main/github-user-contribution.svg" alt="Snake Game"/>
 </p>
