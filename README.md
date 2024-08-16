@@ -16,7 +16,6 @@
 
 - :school: I am a 7th semester student at [Universidad Politecnica de Chiapas](https://www.upchiapas.edu.mx/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 <br>
