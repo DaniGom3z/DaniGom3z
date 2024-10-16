@@ -118,17 +118,6 @@
 
 <br> 
 
-	
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=DaniGom3z&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="DaniGom3z" />
-    </a>
-</p>
-
-
-[![DaniGom3z's Holopin board](https://holopin.io/api/user/board?user=DaniGom3z)](https://holopin.io/@DaniGom3z)
-	
-</details>
 
 ## 🐍 A Snake Eating My Contributions Graph
 
