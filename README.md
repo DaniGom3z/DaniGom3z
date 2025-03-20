@@ -14,7 +14,7 @@
 
 <br><br>
 
-- :school: I am a 7th semester student at [Universidad Politecnica de Chiapas](https://www.upchiapas.edu.mx/).
+- :school: I am an 8th semester student at [Universidad Politecnica de Chiapas](https://www.upchiapas.edu.mx/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
@@ -26,8 +26,8 @@
 <p align="center">
 	<a href="mailto:danielhernandezgomez103@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/DaniGom3z"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/529611107328"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="www.linkedin.com/in/daniel-gomez-4890ba287/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://wa.me/529614370872"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/daniel-gom3z/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
