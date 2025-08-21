@@ -14,7 +14,7 @@
 
 <br><br>
 
-- :school: I am an 8th semester student at [Universidad Politecnica de Chiapas](https://www.upchiapas.edu.mx/).
+- :school: I am a 10th quarter student at [Universidad Politécnica de Chiapas](https://www.upchiapas.edu.mx/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
