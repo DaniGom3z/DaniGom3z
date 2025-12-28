@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Daniel Gomez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2304D939&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Competitive+Programmer;Backend+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2304D939&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering;Competitive+Programmer;Backend+Developer"></a>
 </p>
 
 
@@ -14,7 +14,6 @@
 
 <br><br>
 
-- :school: I am a 10th quarter student at [Universidad Politécnica de Chiapas](https://www.upchiapas.edu.mx/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
